@@ -1,8 +1,4 @@
-<!--
-  This is your PROFILE README. It lives in a repo named exactly after your
-  username: github.com/bintuulugbek/bintuulugbek  → it renders on your profile page.
-  Fill every <!-- SLOT --> with your own text/images, then delete that comment.
--->
+This page is being developed, not final version!
 
 <!-- ===================== BANNER (optional) ===================== -->
 <!-- SLOT: drop a wide banner image here (1280x320 looks good).
