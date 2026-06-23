@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# Ulugbek <!-- SLOT: your display name -->
+# Bahor <!-- SLOT: your display name -->
 
 ### 🧠 AI Research Engineer
 
