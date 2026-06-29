@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="starry_night.png" alt="banner" width="70%" />
+  <img src="bahar.jpg" alt="banner" width="100%" height="30%" />
 </div>
 
 <div align="center">
