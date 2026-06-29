@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="rose.png" alt="banner" width="100%" />
+  <img src="rose.jpg" alt="banner" width="100%" />
 </div>
 
 <div align="center">
