@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Bahor
+# Hi, I'm Bahar
 
 ### AI Engineer | NLP Researcher | Published TMLR Author
 
