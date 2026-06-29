@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="starry_night.png" alt="banner" width="100%" />
+  <img src="starry_night.png" alt="banner" width="70%" />
 </div>
 
 <div align="center">
