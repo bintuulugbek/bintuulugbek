@@ -6,6 +6,6 @@
 
 # Hi, I'm Bahar
 
-### AI Engineer | NLP Researcher | Published TMLR Author
+### AI Research Engineer | Economist | TMLR, ICECCO 2026 
 
 *Building agentic AI workflows, NLP pipelines, and data systems*
