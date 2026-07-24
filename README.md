@@ -8,4 +8,4 @@
 
 ### AI Research Engineer | Economist | TMLR, ICECCO 2026 
 
-*Building agentic AI workflows, NLP pipelines, and data systems*
+*Research and applied ML, NLP pipelines, and analytical data systems*
